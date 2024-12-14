@@ -1,0 +1,36 @@
+[
+    {
+        "vehicle": 1,
+        "camera_id": "Meda",
+        "passengers_count": 1,
+        "timestamp": "2024-10-11 18:40:45",
+        "coordonee": "-4.3276, 15.3136"
+    },
+    {
+        "vehicle": 1,
+        "camera_id": "Meda",
+        "passengers_count": 1,
+        "timestamp": "2024-10-11 18:40:57",
+        "coordonee": "-4.3276, 15.3136"
+    },
+    {
+        "vehicle": 1,
+        "camera_id": "Meda",
+        "passengers_count": 1,
+        "timestamp": "2024-10-11 18:45:47",
+        "coordonee": "-4.3276, 15.3136"
+    },
+    {
+        "vehicle": 1,
+        "camera_id": "Meda",
+        "passengers_count": 1,
+        "timestamp": "2024-10-11 18:46:09",
+        "coordonee": "-4.3276, 15.3136"
+    },
+    {
+        "vehicle": 1,
+        "camera_id": "Hp",
+        "passengers_count": 1,
+        "timestamp": "2024-11-20 15:06:03"
+    }
+]
